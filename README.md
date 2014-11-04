@@ -2,31 +2,35 @@
 
 ## Día 1: Introducción
 
-Introducción a Node.js: 10 minutos
+Introducción a Node.js: 20 minutos
 
-Sesión práctica 1: 20 minutos
+Sesión práctica 1: 40 minutos
 
-Simplecached: 10 minutos
+Simplecached: 20 minutos
 
 Sesión práctica 2: 40 minutos
 
-NPM: gestión de paquetes: 10 minutos
+## Día 2: NPM: Node Package Manager
 
-Sesión práctica 3: 30 minutos
+NPM: gestión de paquetes: 20 minutos
 
-Continuaciones: 10 minutos
+Sesión práctica 1: 40 minutos
 
-Sesión práctica 4: 20 minutos
+Creando paquetes: 20 minutos
 
-## Día 2: Net, http y request
+Sesión práctica 2: 40 minutos
 
-## Día 3: Eventos
+## Día 3: Continuaciones y callbacks
 
-## Día 4: Procesos y modo cluster
+Continuaciones: 20 minutos
 
-## Día 5: Continuaciones y callbacks
+Sesión práctica 1: 40 minutos
 
-## Día 6: NPM: Node Package Manager
+## Día 4: Net, http y request
+
+## Día 5: Eventos
+
+## Día 6: Procesos y modo cluster
 
 ## Día 7: Pruebas asíncronas
 
